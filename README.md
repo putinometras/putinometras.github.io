@@ -1,1 +1,1 @@
-[see here](../putinometras.lt)
+[see here](https://github.com/putinometras/putinometras.lt)
